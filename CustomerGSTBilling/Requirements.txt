@@ -1,0 +1,7 @@
+In system have Java version 19 also install eclipse 
+First Install:- Windows Builder Plugin (From Eclipse MarketPlace)
+Create  connection of Database in MYSQL_WORKBENCH with GST name , 
+then create sechema  of customerdetails after that create table name data which has three columns 
+1). ID (Primary key, Not Null, AutoIncrement)
+2). CusRef (VARCHAR (45))
+3). Bill   (VARCHAR (10000))
